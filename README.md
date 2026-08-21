@@ -3,7 +3,7 @@ This is the image classification for the planets, If you send the image it will 
 
 Data Set LINK ---> kaggle datasets download emirhanai/planets-and-moons-dataset-ai-in-space
 
-### 🔍 What I Did
+###  What I Did here is__>>
 - Collected dataset from [Kaggle](https://www.kaggle.com/).
 - Preprocessed and augmented images to improve model robustness.
 - Used **TensorFlow/Keras** with a CNN architecture:
