@@ -8,7 +8,7 @@ Data Set LINK ---> kaggle datasets download emirhanai/planets-and-moons-dataset-
 - Preprocessed and augmented images to improve model robustness.
 - Used **TensorFlow/Keras** with a CNN architecture:
   - Conv2D → MaxPooling → Dropout → Dense layers
-- Achieved **50% accuracy** on the test set.
+- Achieved **91% accuracy** on the test set.
 
 - 🛠 Approach
 Data Loading & Preprocessing
